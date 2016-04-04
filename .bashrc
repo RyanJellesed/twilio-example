@@ -1,0 +1,6 @@
+export MONO_GAC_PREFIX="/usr/local"
+
+export TWILIO_ACCOUNT_SID = AC11f9fcbf35f3aab271ee1375a4df0f46
+
+export TWILIO_AUTH_TOKEN = 0b42d79e0b933f7b881c5b78e5294530
+
