@@ -1,11 +1,8 @@
 {
-  "name": "twilio",
+  "name": "twilio-workshop",
   "version": "1.0.0",
   "description": "hello",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,11 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/RyanJellesed/twilio-example.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RyanJellesed/twilio-example/issues"
   },
-  "homepage": "https://github.com/RyanJellesed/twilio-example#readme"
+  "homepage": "https://github.com/RyanJellesed/twilio-example#readme",
+  "dependencies": {
+    "twilio": "^2.9.1"
+  }
 }
